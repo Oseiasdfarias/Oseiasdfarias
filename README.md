@@ -20,14 +20,14 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 -->
 
-## 🔧 Technologies & Tools
+## 🔧 Tecnologias e ferramentas
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; Estatísticas do GitHub
 
 <a href="https://github.com/Oseiasdfarias/Oseiasdfarias">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oseiasdfarias&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -41,7 +41,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 </a>
 
 
-<a href="https://github.com/Oseiasdfarias/Flappy_Bird_Python">
+<a href="https://github.com/Oseiasdfarias/jupyter_notebboks_posts_medium">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Oseiasdfarias&repo=Flappy_Bird_Python&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
