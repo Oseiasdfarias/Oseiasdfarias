@@ -25,7 +25,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <h1 align="center">Hi 👋, I'm Oséias</h1>
 <h3 align="center">Electrical engineering student from Brazil</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oseiasdfarias" alt="oseiasdfarias" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula"><img src="https://github-profile-trophy.vercel.app/?username=oseiasdfarias" alt="oseiasdfarias" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
