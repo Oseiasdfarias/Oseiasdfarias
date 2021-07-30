@@ -70,8 +70,12 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 <!-- SNAKE INIT -->
 
-![Snake animation](https://github.com/Oseiasdfarias/Oseiasdfarias/blob/output/github-contribution-grid-snake.svg)
+<div>
+    <img src="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/output/github-contribution-grid-snake.svg" />
+</div>
 
+<!-- ![Snake animation](https://github.com/Oseiasdfarias/Oseiasdfarias/blob/output/github-contribution-grid-snake.svg) -->
+ 
 <!-- SNAKE END -->
 
 <!-- icons with padding -->
