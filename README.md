@@ -68,6 +68,12 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 <!-- links to social media icons -->
 
+<!-- SNAKE INIT -->
+
+![Snake animation](https://github.com/Oseiasdfarias/Oseiasdfarias/blob/output/github-contribution-grid-snake.svg)
+
+<!-- SNAKE END -->
+
 <!-- icons with padding -->
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
