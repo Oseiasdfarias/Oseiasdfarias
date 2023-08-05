@@ -73,10 +73,10 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <!-- SNAKE INIT -->
 
 
-
 <div>
-    <img src="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/output/github-contribution-grid-snake-dark.svg" />
 </div>
+
  
 <!-- SNAKE END -->
 
