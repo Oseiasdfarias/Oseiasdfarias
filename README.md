@@ -30,8 +30,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 
 ### GitHub Stats
-<a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=oseiasdfarias" width="600" /></a>
-<img src="https://stats.dooboo.io/api/github-trophies?login=oseiasdfarias" width="480" />
+<p align="center"> <a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=oseiasdfarias" width="600" /></a> </p>
 
 
 
