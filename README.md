@@ -25,7 +25,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <h1 align="center">Hi 👋, I'm Oséias</h1>
 <h3 align="center">Electrical engineering student from Brazil</h3>
 
-<h3 align="center"><a href="https://oseiasdfarias.github.io/portifolio/" target="_blank"> Meu Portifólio </a></h3>
+<h3 align="center"><a href="https://oseiasdfarias.github.io" target="_blank"> My portfolio </a></h3>
 
 
 
