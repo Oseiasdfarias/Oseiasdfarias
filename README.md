@@ -42,9 +42,9 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 </a></li>
 </ul>
 
-
+<!-- 
 ### GitHub Stats
-<p align="center"> <a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=oseiasdfarias" width="600" /></a> </p>
+<p align="center"> <a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=oseiasdfarias" width="600" /></a> </p> -->
 
 
 
