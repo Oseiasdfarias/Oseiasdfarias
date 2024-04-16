@@ -25,7 +25,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <h1 align="center">Hi 👋, I'm Oséias</h1>
 <h3 align="center">Electrical engineering student from Brazil</h3>
 
-<h3 ><a href="https://www.youtube.com/@pythonaltas" target="_blank"> Meu Canal no YouTube (Pythonaltas🚀)</a></h3>
+<p><h3 ><a href="https://www.youtube.com/@pythonaltas" target="_blank"> Meu Canal no YouTube (Pythonaltas🚀)</a></h3></p>
 
 <ul>
     <li><a href="https://www.youtube.com/watch?v=j_OJwG-nr_s">Explorando Séries no Python com Pandas: Introdução e Fundamentos
