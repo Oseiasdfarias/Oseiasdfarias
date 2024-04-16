@@ -25,7 +25,19 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <h1 align="center">Hi 👋, I'm Oséias</h1>
 <h3 align="center">Electrical engineering student from Brazil</h3>
 
-<h3 ><a href="https://oseiasdfarias.github.io" target="_blank"> Posts Recentes Medium </a></h3>
+<h3 ><a href="https://www.youtube.com/@pythonaltas" target="_blank"> Meu Canal no YouTube (Pythonaltas🚀)</a></h3>
+
+<ul>
+    <li><a href="https://www.youtube.com/watch?v=j_OJwG-nr_s">Explorando Séries no Python com Pandas: Introdução e Fundamentos
+    </a></li>
+    <li><a href="https://youtube.com/playlist?list=PL5jigOsyxDtBEgO2zUUyf_2LNt3Zenrl6&si=TY5YNB0kStri1ncn">Curso de Matplotlib e Numpy para Iniciantes
+    </a></li>
+    <li><a href="https://youtube.com/playlist?list=PL5jigOsyxDtDJxjnIVBgk01UPTtq9C45J&si=k0Xx3bRoFHXKNuAH">Biblioteca Numpy do Python
+    </a></li>
+
+</ul>
+
+<h3 ><a href="https://oseiasfarias.medium.com" target="_blank"> Posts Recentes Medium </a></h3>
 
 <ul>
     <li><a href="https://oseiasfarias.medium.com/p1-estat%C3%ADstica-para-ci%C3%AAncia-de-dados-a1949514b4ee">P1 — Estatística para Ciência de Dados
