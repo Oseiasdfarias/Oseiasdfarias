@@ -25,7 +25,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <h1 align="center">Hi 👋, I'm Oséias</h1>
 <h3 align="center">Electrical engineering student from Brazil</h3>
 
-<p><h3 ><a href="https://www.youtube.com/@pythonaltas" target="_blank"> Meu Canal no YouTube (Pythonaltas🚀)</a></h3></p>
+<p><h3 ><a href="https://www.youtube.com/@pythonaltas" target="_blank"> Meu Canal no YouTube [ Pythonaltas 🚀 ]</a></h3></p>
 
 <ul>
     <li><a href="https://youtube.com/playlist?list=PL5jigOsyxDtCg4tdfwryP8UnP8so0WriC&si=3GV2DcjyxmFUwfMW">Explorando a Biblioteca Pandas no Python: Introdução e Fundamentos
@@ -40,17 +40,13 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <h3 ><a href="https://oseiasfarias.medium.com" target="_blank"> Posts Recentes Medium </a></h3>
 
 <ul>
-    <li><a href="https://oseiasfarias.medium.com/p1-estat%C3%ADstica-para-ci%C3%AAncia-de-dados-a1949514b4ee">P1 — Estatística para Ciência de Dados
+    <li><a href="https://oseiasfarias.medium.com/p1-estat%C3%ADstica-para-ci%C3%AAncia-de-dados-a1949514b4ee">Medidas de Tendência Central — Estatística para Ciência de Dados
 </a></li>
     <li><a href="https://oseiasfarias.medium.com/salvar-e-carregar-modelos-de-machine-learning-treinados-usando-a-biblioteca-scikit-learn-cb61a8c99348">Salvar e Carregar Modelos de Machine Learning Treinados Usando a Biblioteca Scikit-Learn
 </a></li>
     <li><a href="https://oseiasfarias.medium.com/colocando-texto-nota%C3%A7%C3%B5es-dentro-de-gr%C3%A1ficos-matplotlib-f9ce0774fc8a">Adicionando Texto e/ou Notações em Figuras matplotlib
 </a></li>
     <li><a href="https://oseiasfarias.medium.com/estrutura-do-matplotlib-pyplot-figure-axes-e-axis-1a45295cb7d3">Estrutura do matplotlib.pyplot (Figure, Axes e Axis)
-</a></li>
-    <li><a href="https://oseiasfarias.medium.com/criando-e-acessando-os-elementos-de-matrizes-multidimensionais-com-a-biblioteca-numpy-do-python-c4badbfe3385">Criando e Acessando os Elementos de Matrizes Multidimensionais com a Biblioteca Numpy do Python
-</a></li>
-    <li><a href="https://medium.com/20-21/opera%C3%A7%C3%B5es-em-matrizes-numpy-613157ee74c4">Aplicando Operações em Matrizes Numpy
 </a></li>
 </ul>
 
