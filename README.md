@@ -28,9 +28,9 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <p><h3 ><a href="https://www.youtube.com/@pythonaltas" target="_blank"> Meu Canal no YouTube [ Pythonaltas 🚀 ]</a></h3></p>
 
 <ul>
-    <li><a href="https://youtube.com/playlist?list=PL5jigOsyxDtCg4tdfwryP8UnP8so0WriC&si=3GV2DcjyxmFUwfMW">Explorando a Biblioteca Pandas no Python: Introdução e Fundamentos
-    </a></li>
     <li><a href="https://youtube.com/playlist?list=PL5jigOsyxDtBEgO2zUUyf_2LNt3Zenrl6&si=TY5YNB0kStri1ncn">Curso de Matplotlib e Numpy para Iniciantes
+    </a></li>
+    <li><a href="https://youtube.com/playlist?list=PL5jigOsyxDtCg4tdfwryP8UnP8so0WriC&si=3GV2DcjyxmFUwfMW">Explorando a Biblioteca Pandas no Python: Introdução e Fundamentos
     </a></li>
     <li><a href="https://youtube.com/playlist?list=PL5jigOsyxDtDJxjnIVBgk01UPTtq9C45J&si=k0Xx3bRoFHXKNuAH">Biblioteca Numpy do Python
     </a></li>
