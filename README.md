@@ -27,11 +27,9 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <img src="https://komarev.com/ghpvc/?username=Oseiasdfarias&style=flat-square" alt="Profile views" align='right'/> <a href="https://github.com/dnsrsdata"> </a> 
 
 <p align="center">
-  <img width="80%" src="oss.png" alt="Profile views" align='right'/> <a href="https://github.com/dnsrsdata"> </a>
+   <a href="https://oseiasfarias.info"> <img width="80%" src="oss.png" alt="Profile views"/> </a>
 </p>
 
-<br>
-<br>
 
 <p align="center">
 <h3 align="center">Electrical engineering student from Brazil</h3>
