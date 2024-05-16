@@ -24,21 +24,18 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 <h1 align="center">Hi 👋, I'm Oséias</h1>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Oseiasdfarias&style=flat-square" alt="Profile views"/> <a href="https://github.com/dnsrsdata"> </a> 
-</p>
-
+<img src="https://komarev.com/ghpvc/?username=Oseiasdfarias&style=flat-square" alt="Profile views" align='right'/> <a href="https://github.com/dnsrsdata"> </a> 
 
 <p align="center">
   <img width="80%" src="oss.png" alt="Profile views" align='right'/> <a href="https://github.com/dnsrsdata"> </a>
 </p>
 
-
+<br>
+<br>
 
 <p align="center">
-<h3>Electrical engineering student from Brazil</h3>
+<h3 align="center">Electrical engineering student from Brazil</h3>
 </p>
-
 
 
 <p><h3 ><a href="https://www.youtube.com/@pythonaltas" target="_blank"> Meu Canal no YouTube [ Pythonaltas 🚀 ]</a></h3></p>
