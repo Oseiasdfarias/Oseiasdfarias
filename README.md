@@ -26,7 +26,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <h1 align="center">Hi 👋, I'm Oséias</h1>
 
 <p align="center">
-   <a href="https://oseiasfarias.info"> <img width="80%" src="oss.png" alt="Profile views"/> </a>
+   <a href="https://oseiasfarias.info"> <img width="90%" src="pf.gif" alt="Profile views"/> </a>
 </p>
 
 
