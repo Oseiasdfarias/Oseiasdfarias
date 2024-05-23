@@ -54,7 +54,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 </a></li>
     <li><a href="https://oseiasfarias.medium.com/salvar-e-carregar-modelos-de-machine-learning-treinados-usando-a-biblioteca-scikit-learn-cb61a8c99348">Salvar e Carregar Modelos de Machine Learning Treinados Usando a Biblioteca Scikit-Learn
 </a></li>
-    <li><a href="https://oseiasfarias.medium.com/colocando-texto-nota%C3%A7%C3%B5es-dentro-de-gr%C3%A1ficos-matplotlib-f9ce0774fc8a">Adicionando Texto e/ou Notações em Figuras matplotlib
+    <li><a href="https://medium.com/p/be42cea47a6c">Boxplot com Python usando Matplotlib e Seaborn
 </a></li>
     <li><a href="https://oseiasfarias.medium.com/estrutura-do-matplotlib-pyplot-figure-axes-e-axis-1a45295cb7d3">Estrutura do matplotlib.pyplot (Figure, Axes e Axis)
 </a></li>
