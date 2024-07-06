@@ -1,27 +1,3 @@
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
-<!-- 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
--->
-
-<!-- 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
--->
-
-<!-- 
-My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava and currently working at IBM. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
--->
-
-<!-- 
-## &#x270d; Blog & Writing
--->
-
-<!-- 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
-
--->
-
-<!-- start - Customize whith  https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-
 <img src="https://komarev.com/ghpvc/?username=Oseiasdfarias&style=flat-square" alt="Profile views" align='right'/> <a href="https://github.com/dnsrsdata"> </a> 
 <h1 align="center">Hi 👋, I'm Oséias</h1>
 
@@ -72,39 +48,39 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ### Data Science  
 <div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/python/000/fff" alt="Python" height="50" /></a> <a href="https://pandas.pydata.org" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/pandas/000/fff" alt="Pandas" height="50" /></a> <a href="https://numpy.org" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/numpy/000/fff" alt="Pandas" height="50" /></a>  <a href="https://scipy.org" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/scipy/000/fff" alt="Pandas" height="50" /></a>  <a href="https://jupyter.org" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/jupyter/000/fff" alt="Pandas" height="50" /></a>  <a href="https://www.tensorflow.org/?hl=pt-br" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/tensorflow/000/fff" alt="Pandas" height="50" /></a>  <a href="https://pytorch.org" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/pytorch/000/fff" alt="Pandas" height="50" /></a>  <a href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/scikitlearn/000/fff" alt="Pandas" height="50" /></a>  <a href="https://plotly.com" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/plotly/000/fff" alt="Pandas" height="50" /></a>  <a href="https://airflow.apache.org" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/apacheairflow/000/fff" alt="Pandas" height="50" /></a>  <a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/scikitlearn/000/fff" alt="Pandas" height="50" /></a> <a href="https://streamlit.io" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/streamlit/000/fff" alt="Pandas" height="50" /></a> 
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/python/000/E4BF7A" alt="Python" height="50" /></a> <a href="https://pandas.pydata.org" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/pandas/000/E4BF7A" alt="Pandas" height="50" /></a> <a href="https://numpy.org" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/numpy/000/E4BF7A" alt="Pandas" height="50" /></a>  <a href="https://scipy.org" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/scipy/000/E4BF7A" alt="Pandas" height="50" /></a>  <a href="https://jupyter.org" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/jupyter/000/E4BF7A" alt="Pandas" height="50" /></a>  <a href="https://www.tensorflow.org/?hl=pt-br" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/tensorflow/000/E4BF7A" alt="Pandas" height="50" /></a>  <a href="https://pytorch.org" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/pytorch/000/E4BF7A" alt="Pandas" height="50" /></a>  <a href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/scikitlearn/000/E4BF7A" alt="Pandas" height="50" /></a>  <a href="https://plotly.com" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/plotly/000/E4BF7A" alt="Pandas" height="50" /></a>  <a href="https://airflow.apache.org" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/apacheairflow/000/E4BF7A" alt="Pandas" height="50" /></a>  <a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/scikitlearn/000/E4BF7A" alt="Pandas" height="50" /></a> <a href="https://streamlit.io" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/streamlit/000/E4BF7A" alt="Pandas" height="50" /></a> 
 </div>
 
 </td><td valign="top" width="33%">
 
 ### Backend  
 <div align="center">   
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" height="40" width="40" src="https://img.icons8.com/?size=100&id=2572&format=png&color=FFFFFF" alt="Java" height="50" /></a>
-<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/oracle/000/fff" alt="Oracle" height="50" /></a>  
-<a href="https://spring.io/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/spring/000/fff" alt="Spring" height="50" /></a>    
-<a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/springboot/000/fff" alt="Spring Boot" height="50" /></a> <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/python/000/fff" alt="Python" height="50" /></a>  <a href="https://aws.amazon.com" target="_blank"><img style="margin: 10px" height="40" width="40" src="https://cdn.simpleicons.org/amazonwebservices/000/fff" alt="Java" height="50" /></a>  <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" height="40" width="40" src="https://cdn.simpleicons.org/awslambda/000/fff" alt="aws lambda" height="50" /></a>  <a href="https://aws.amazon.com/pt/ec2/" target="_blank"><img style="margin: 10px" height="40" width="40" src="https://cdn.simpleicons.org/amazonec2/000/fff" alt="amazon ec2" height="50" /></a> <a href="https://aws.amazon.com/pt/pm/serv-s3" target="_blank"><img style="margin: 10px" height="40" width="40" src="https://cdn.simpleicons.org/amazons3/000/fff" alt="amazon s3" height="50" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/mysql/000/fff" alt="MySQL" height="50" /></a> 
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/postgresql/000/fff" alt="PostgreSQL" height="50" /></a> 
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/flask/000/fff" alt="Flask" height="50" /></a>
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/linux/000/fff" alt="Linux" height="50" /></a> 
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/raspberrypi/000/fff" alt="Raspberry Pi" height="50" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/arduino/000/fff" alt="Arduino" height="50" /></a> 
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" height="40" width="40" src="https://img.icons8.com/?size=100&id=2572&format=png&color=E4BF7A" alt="Java" height="50" /></a>
+<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/oracle/000/E4BF7A" alt="Oracle" height="50" /></a>  
+<a href="https://spring.io/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/spring/000/E4BF7A" alt="Spring" height="50" /></a>    
+<a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/springboot/000/E4BF7A" alt="Spring Boot" height="50" /></a> <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/python/000/E4BF7A" alt="Python" height="50" /></a>  <a href="https://aws.amazon.com" target="_blank"><img style="margin: 10px" height="40" width="40" src="https://cdn.simpleicons.org/amazonwebservices/000/E4BF7A" alt="Java" height="50" /></a>  <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" height="40" width="40" src="https://cdn.simpleicons.org/awslambda/000/E4BF7A" alt="aws lambda" height="50" /></a>  <a href="https://aws.amazon.com/pt/ec2/" target="_blank"><img style="margin: 10px" height="40" width="40" src="https://cdn.simpleicons.org/amazonec2/000/E4BF7A" alt="amazon ec2" height="50" /></a> <a href="https://aws.amazon.com/pt/pm/serv-s3" target="_blank"><img style="margin: 10px" height="40" width="40" src="https://cdn.simpleicons.org/amazons3/000/E4BF7A" alt="amazon s3" height="50" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/mysql/000/E4BF7A" alt="MySQL" height="50" /></a> 
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/postgresql/000/E4BF7A" alt="PostgreSQL" height="50" /></a> 
+<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/flask/000/E4BF7A" alt="Flask" height="50" /></a>
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/linux/000/E4BF7A" alt="Linux" height="50" /></a> 
+<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/raspberrypi/000/E4BF7A" alt="Raspberry Pi" height="50" /></a>  
+<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/arduino/000/E4BF7A" alt="Arduino" height="50" /></a> 
 </div>
 
 </td><td valign="top" width="33%">
 
 ### Programming Tools 
 <div align="center">  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/docker/000/fff" alt="Docker" height="50" /></a>
-<a href="https://www.heroku.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/heroku/000/fff" alt="Heroku" height="50" /></a> 
-<a href="https://render.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/render/000/fff" alt="Render" height="50" /></a> 
-<a href="https://streamlit.io/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/streamlit/000/fff" alt="Streamlit" height="50" /></a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/gnubash/000/fff" alt="Bash" height="50" /></a> <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/git/000/fff" alt="Git" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/github/000/fff" alt="GitHub" height="50" /></a>   
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/gitlab/000/fff" alt="GitLab" height="50" /></a>
-<a href="https://trello.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/trello/000/fff" alt="Trello" height="50" /></a>
-<a href="https://slack.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/slack/000/fff" alt="Slack" height="50" /></a>
-<a href="https://openai.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/openai/000/fff" alt="Openai" height="50" /></a>
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/docker/000/E4BF7A" alt="Docker" height="50" /></a>
+<a href="https://www.heroku.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/heroku/000/E4BF7A" alt="Heroku" height="50" /></a> 
+<a href="https://render.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/render/000/E4BF7A" alt="Render" height="50" /></a> 
+<a href="https://streamlit.io/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/streamlit/000/E4BF7A" alt="Streamlit" height="50" /></a> 
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/gnubash/000/E4BF7A" alt="Bash" height="50" /></a> <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/git/000/E4BF7A" alt="Git" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/github/000/E4BF7A" alt="GitHub" height="50" /></a>   
+<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/gitlab/000/E4BF7A" alt="GitLab" height="50" /></a>
+<a href="https://trello.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/trello/000/E4BF7A" alt="Trello" height="50" /></a>
+<a href="https://slack.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/slack/000/E4BF7A" alt="Slack" height="50" /></a>
+<a href="https://openai.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/openai/000/E4BF7A" alt="Openai" height="50" /></a>
 </div>
 
 </td></tr></table>   
