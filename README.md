@@ -37,15 +37,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 <p><h3 ><a href="https://www.youtube.com/@pythonaltas" target="_blank"> Meu Canal no YouTube [ Pythonaltas 🚀 ]</a></h3></p>
 
-<ul>
-    <li><a href="https://youtube.com/playlist?list=PL5jigOsyxDtBEgO2zUUyf_2LNt3Zenrl6&si=TY5YNB0kStri1ncn">Curso de Matplotlib e Numpy para Iniciantes
-    </a></li>
-    <li><a href="https://youtube.com/playlist?list=PL5jigOsyxDtCg4tdfwryP8UnP8so0WriC&si=3GV2DcjyxmFUwfMW">Explorando a Biblioteca Pandas no Python: Introdução e Fundamentos
-    </a></li>
-    <li><a href="https://youtube.com/playlist?list=PL5jigOsyxDtDJxjnIVBgk01UPTtq9C45J&si=k0Xx3bRoFHXKNuAH">Biblioteca Numpy do Python
-    </a></li>
-
-</ul>
 
 <h3 ><a href="https://oseiasfarias.medium.com" target="_blank"> Posts Recentes Medium </a></h3>
 
@@ -76,85 +67,65 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 </p>
 
 
-<h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
-<table>
-  <tr>
-    <td>
-      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="100"/>
-    </td>
-    <td>
-      <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="100"/>
-    </td>
-    <td>
-      <img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" width="100"/>
-    </td>
-    <td>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100"/>
-    </td>
-    <td>
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="100" />
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="100"/>
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="100"/>
-    </td>
-    <td>
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="100"/>
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="100"/>
-    </td>
-    <td>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="100"/>
-    </td>
-    <td>
-      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="100"/>
-    </td>
-    <td>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="100"/>
-    </td>
-    <td>
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="100"/> 
-    </td>
-    <td>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="100"/>
-    </td>
-  </tr>
-</table>
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+### Data Science  
+<div align="center">  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/python/000/fff" alt="Python" height="50" /></a> 
+</div>
+
+</td><td valign="top" width="33%">
+
+### Backend  
+<div align="center">   
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg" alt="Java" height="50" /></a>
+<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/oracle/000/fff" alt="Oracle" height="50" /></a>  
+<a href="https://spring.io/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/spring/000/fff" alt="Spring" height="50" /></a>    
+<a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/springboot/000/fff" alt="Spring Boot" height="50" /></a> <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/python/000/fff" alt="Python" height="50" /></a> 
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/mysql/000/fff" alt="MySQL" height="50" /></a> 
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/postgresql/000/fff" alt="PostgreSQL" height="50" /></a> 
+<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/flask/000/fff" alt="Flask" height="50" /></a>
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/linux/000/fff" alt="Linux" height="50" /></a> 
+<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/raspberrypi/000/fff" alt="Raspberry Pi" height="50" /></a>  
+<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/arduino/000/fff" alt="Arduino" height="50" /></a> 
+</div>
+
+</td><td valign="top" width="33%">
+
+### Programming Tools 
+<div align="center">  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/docker/000/fff" alt="Docker" height="50" /></a>
+<a href="https://www.heroku.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/heroku/000/fff" alt="Heroku" height="50" /></a> 
+<a href="https://render.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/render/000/fff" alt="Render" height="50" /></a> 
+<a href="https://streamlit.io/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/streamlit/000/fff" alt="Streamlit" height="50" /></a> 
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/gnubash/000/fff" alt="Bash" height="50" /></a> <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/git/000/fff" alt="Git" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/github/000/fff" alt="GitHub" height="50" /></a>   
+<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/gitlab/000/fff" alt="GitLab" height="50" /></a>
+<a href="https://trello.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/trello/000/fff" alt="Trello" height="50" /></a>
+<a href="https://slack.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/slack/000/fff" alt="Slack" height="50" /></a>
+<a href="https://openai.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/openai/000/fff" alt="Openai" height="50" /></a>
+</div>
+
+</td></tr></table>   
+
+<br/>
 
 
-<!-- finally -  Customize whith  https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 
-
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
-
-<div>
-<a href="https://github.com/Oseiasdfarias/Oseiasdfarias">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oseiasdfarias&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/Oseiasdfarias/Oseiasdfarias">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Oseiasdfarias&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
-
-<a href="https://github.com/Oseiasdfarias/Projeto_Tcc_Oseias_Oficial">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Oseiasdfarias&repo=Projeto_Tcc_Oseias_Oficial&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/Oseiasdfarias/jupyter_notebboks_posts_medium">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Oseiasdfarias&repo=jupyter_notebboks_posts_medium&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
-</div>
-<!-- links to social media icons -->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=oseiasdfarias&show_icons=true&theme=onedark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=oseiasdfarias&show_icons=true"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=oseiasdfarias&show_icons=true" />
+</picture>
 
 <!-- SNAKE INIT -->
 
