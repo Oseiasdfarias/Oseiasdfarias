@@ -115,17 +115,12 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 
 ## &#x1f4c8; GitHub Stats
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=oseiasdfarias&show_icons=true&theme=onedark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=oseiasdfarias&show_icons=true"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=oseiasdfarias&show_icons=true" />
-</picture>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oseiasdfarias&theme=onedark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oseiasdfarias&theme=onedark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oseiasdfarias&theme=onedark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=oseiasdfarias&theme=onedark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oseiasdfarias&theme=onedark&utcOffset=8)
+
 
 <!-- SNAKE INIT -->
 
