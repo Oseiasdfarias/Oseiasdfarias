@@ -1,10 +1,12 @@
 <img src="https://komarev.com/ghpvc/?username=Oseiasdfarias&style=flat-square" alt="Profile views" align='right'/> <a href="https://github.com/dnsrsdata"> </a> 
 <h1 align="center">Hi 👋, I'm Oséias</h1>
 
+
+<!-- 
 <p align="center">
    <a href="https://oseiasfarias.info"> <img width="90%" src="pf.gif" alt="Profile views"/> </a>
 </p>
-
+-->
 
 <p align="center">
 <h3 align="center">Electrical engineering student from Brazil</h3>
