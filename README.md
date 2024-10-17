@@ -9,7 +9,7 @@
 -->
 
 <p align="center">
-<h3 align="center">Electrical engineering student from Brazil</h3>
+<h3 align="center">I'm an Electrical Engineer, I live in Brazil</h3>
 </p>
 
 
