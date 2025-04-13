@@ -13,21 +13,11 @@
 </p>
 
 
-<p><h3 ><a href="https://www.youtube.com/@pythonaltas" target="_blank"> Meu Canal no YouTube</a></h3></p>
+<p><h3 ><a href="https://www.youtube.com/@oseiasdfarias" target="_blank"> Meu Canal no YouTube</a></h3></p>
 
 
 <h3 ><a href="https://oseiasfarias.medium.com" target="_blank"> Posts Recentes Medium </a></h3>
 
-<ul>
-    <li><a href="https://oseiasfarias.medium.com/p1-estat%C3%ADstica-para-ci%C3%AAncia-de-dados-a1949514b4ee">Medidas de Tendência Central — Estatística para Ciência de Dados
-</a></li>
-    <li><a href="https://oseiasfarias.medium.com/salvar-e-carregar-modelos-de-machine-learning-treinados-usando-a-biblioteca-scikit-learn-cb61a8c99348">Salvar e Carregar Modelos de Machine Learning Treinados Usando a Biblioteca Scikit-Learn
-</a></li>
-    <li><a href="https://medium.com/p/be42cea47a6c">Boxplot com Python usando Matplotlib e Seaborn
-</a></li>
-    <li><a href="https://oseiasfarias.medium.com/estrutura-do-matplotlib-pyplot-figure-axes-e-axis-1a45295cb7d3">Estrutura do matplotlib.pyplot (Figure, Axes e Axis)
-</a></li>
-</ul>
 
 <!-- 
 ### GitHub Stats
