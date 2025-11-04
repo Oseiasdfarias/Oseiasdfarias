@@ -52,15 +52,17 @@ Full-Stack Backend Developer and Electrical Engineer based in São Paulo, pursui
 ### Backend & Cloud Infrastructure
 
 <div align="center">
-  <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/java/000/E4BF7A" alt="Java" /></a>
-  <a href="https://www.oracle.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/oracle/000/E4BF7A" alt="Oracle" /></a>
+  <a href="https://vercel.com" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/vercel/000/E4BF7A" alt="Vercel" /></a>
+  <a href="https://www.sqlite.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/sqlite/000/E4BF7A" alt="sqlite" /></a>
+  <a href="https://platform.openai.com/docs/overview" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/openai/000/E4BF7A" alt="openai" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/docker/000/E4BF7A" alt="docker" /></a>
   <a href="https://spring.io/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/spring/000/E4BF7A" alt="Spring" /></a>
   <a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/springboot/000/E4BF7A" alt="Spring Boot" /></a>
   <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/python/000/E4BF7A" alt="Python" /></a>
-  <a href="https://aws.amazon.com" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/amazonaws/000/E4BF7A" alt="AWS" /></a>
-  <a href="https://aws.amazon.com/lambda/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/awslambda/000/E4BF7A" alt="AWS Lambda" /></a>
-  <a href="https://aws.amazon.com/ec2/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/amazonec2/000/E4BF7A" alt="Amazon EC2" /></a>
-  <a href="https://aws.amazon.com/s3/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/amazons3/000/E4BF7A" alt="Amazon S3" /></a>
+  <a href="https://poetry.com" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/poetry/000/E4BF7A" alt="poetry" /></a>
+  <a href="https://serverless.com" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/serverless/000/E4BF7A" alt="serverless" /></a>
+  <a href="https://ubuntu.com" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/ubuntu/000/E4BF7A" alt="ubuntu" /></a>
+  <a target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/dotenv/000/E4BF7A" alt="dotenv" /></a>
   <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/mysql/000/E4BF7A" alt="MySQL" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/postgresql/000/E4BF7A" alt="PostgreSQL" /></a>
   <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/flask/000/E4BF7A" alt="Flask" /></a>
