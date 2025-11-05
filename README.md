@@ -110,7 +110,6 @@ Full-Stack Backend Developer and Electrical Engineer based in São Paulo, pursui
 | [Desafio Elite Dev IA](https://github.com/Oseiasdfarias/oseias_desafio_elite_dev_ia) | An AI development challenge project. | Python | - |
 | [Forum API (Java/Spring Boot)](https://github.com/Oseiasdfarias/forum_hub_challenge) | REST API for forum with auth, validations, Flyway migrations. | Java | - |
 | [Book Catalog (Java/Spring Boot)](https://github.com/Oseiasdfarias/literalura) | Console app consuming Gutendex API, persisting to PostgreSQL. | Java | - |
-| [Full FastAPI](https://github.com/Oseiasdfarias/full_fast_api) | Complete project using FastAPI for backend APIs. | Python | - |
 | [FastAPI REST API (Python)](https://github.com/Oseiasdfarias/full_fast_api) | Full CRUD, Pytest tests, SQLAlchemy integration. | Python | - |
 | [AWS Lambda with Python & Serverless](https://github.com/Oseiasdfarias/AWS_lambda_com_python_e_serverless_framework) | Deploying serverless functions on AWS Lambda. | Python | 1 |
 | [Data Warehouse from Scratch](https://github.com/Oseiasdfarias/projeto_datawarehouse_do_zero) | Building a commodities data warehouse. | Python | - |
