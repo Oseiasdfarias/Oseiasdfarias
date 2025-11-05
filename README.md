@@ -94,12 +94,11 @@ Full-Stack Backend Developer and Electrical Engineer based in São Paulo, pursui
 ## GitHub Statistics
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oseiasdfarias&theme=onedark" width="400" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oseiasdfarias&theme=onedark" width="400" />
-  <br />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oseiasdfarias&theme=onedark" width="400" />
+  <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oseiasdfarias&theme=onedark" width="400" /> -->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=oseiasdfarias&theme=onedark" width="400" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oseiasdfarias&theme=onedark" width="400" />  
   <br />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oseiasdfarias&theme=onedark" width="400" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oseiasdfarias&theme=onedark&utcOffset=-3" width="400" alt="Productive Time" />
 </div>
 
