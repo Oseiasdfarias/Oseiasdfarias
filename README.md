@@ -1,22 +1,31 @@
 <img src="https://komarev.com/ghpvc/?username=Oseiasdfarias&style=flat-square" alt="Profile views" align='right'/> <a href="https://github.com/dnsrsdata"> </a> 
 <h1 align="center">Hi 👋, I'm Oséias</h1>
 
-
-<!-- 
 <p align="center">
-   <a href="https://oseiasfarias.info"> <img width="90%" src="pf.gif" alt="Profile views"/> </a>
+<h3 align="center">Electrical Engineer · MSc student in Control Systems · Brazil</h3>
 </p>
--->
 
 <p align="center">
-<h3 align="center">I'm an Electrical Engineer, I live in Brazil</h3>
+I build open-source tools at the intersection of control theory, simulation and AI.<br/>
+Currently developing <a href="https://github.com/synapsys-lab/synapsys"><strong>Synapsys</strong></a> — a Python framework for modelling, simulating and deploying control systems.
 </p>
 
 
-<p><h3 ><a href="https://www.youtube.com/@oseiasdfarias" target="_blank"> Meu Canal no YouTube</a></h3></p>
+<p><h3><a href="https://www.youtube.com/@oseiasdfarias" target="_blank"> Meu Canal no YouTube</a></h3></p>
 
+<h3><a href="https://oseiasfarias.medium.com" target="_blank"> Posts Recentes Medium</a></h3>
 
-<h3 ><a href="https://oseiasfarias.medium.com" target="_blank"> Posts Recentes Medium </a></h3>
+---
+
+## Featured Project
+
+<a href="https://github.com/synapsys-lab/synapsys">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=synapsys-lab&repo=synapsys&theme=onedark&title_color=E4BF7A&icon_color=E4BF7A" />
+</a>
+
+**[Synapsys](https://github.com/synapsys-lab/synapsys)** — MATLAB-compatible Python API (`tf`, `ss`, `bode`, `lqr`…), nonlinear simulators with real-time 3D visualisation, multi-agent closed-loop simulation and distributed transport (shared memory / ZeroMQ). 501 tests · 100% coverage · mypy strict.
+
+---
 
 
 <!-- 
@@ -38,9 +47,21 @@
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
+### Control Systems & Simulation
+<div align="center">
+<a href="https://github.com/synapsys-lab/synapsys" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/python/000/E4BF7A" alt="Synapsys" height="50" /></a>
+<a href="https://scipy.org" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/scipy/000/E4BF7A" alt="SciPy" height="50" /></a>
+<a href="https://numpy.org" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/numpy/000/E4BF7A" alt="NumPy" height="50" /></a>
+<a href="https://matplotlib.org" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/plotly/000/E4BF7A" alt="Matplotlib" height="50" /></a>
+<a href="https://pytorch.org" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/pytorch/000/E4BF7A" alt="PyTorch" height="50" /></a>
+<a href="https://jupyter.org" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/jupyter/000/E4BF7A" alt="Jupyter" height="50" /></a>
+</div>
+
+LTI systems · state-space · nonlinear simulation · LQR · PID · RK4/RK45 · multi-agent · distributed simulation
+
 ### Data Science  
 <div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/python/000/E4BF7A" alt="Python" height="50" /></a> <a href="https://pandas.pydata.org" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/pandas/000/E4BF7A" alt="Pandas" height="50" /></a> <a href="https://numpy.org" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/numpy/000/E4BF7A" alt="Pandas" height="50" /></a>  <a href="https://scipy.org" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/scipy/000/E4BF7A" alt="Pandas" height="50" /></a>  <a href="https://jupyter.org" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/jupyter/000/E4BF7A" alt="Pandas" height="50" /></a>  <a href="https://www.tensorflow.org/?hl=pt-br" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/tensorflow/000/E4BF7A" alt="Pandas" height="50" /></a>  <a href="https://pytorch.org" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/pytorch/000/E4BF7A" alt="Pandas" height="50" /></a>  <a href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/scikitlearn/000/E4BF7A" alt="Pandas" height="50" /></a>  <a href="https://plotly.com" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/plotly/000/E4BF7A" alt="Pandas" height="50" /></a>  <a href="https://airflow.apache.org" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/apacheairflow/000/E4BF7A" alt="Pandas" height="50" /></a>  <a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/scikitlearn/000/E4BF7A" alt="Pandas" height="50" /></a> <a href="https://streamlit.io" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/streamlit/000/E4BF7A" alt="Pandas" height="50" /></a> 
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/python/000/E4BF7A" alt="Python" height="50" /></a> <a href="https://pandas.pydata.org" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/pandas/000/E4BF7A" alt="Pandas" height="50" /></a> <a href="https://numpy.org" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/numpy/000/E4BF7A" alt="NumPy" height="50" /></a>  <a href="https://scipy.org" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/scipy/000/E4BF7A" alt="SciPy" height="50" /></a>  <a href="https://jupyter.org" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/jupyter/000/E4BF7A" alt="Jupyter" height="50" /></a>  <a href="https://www.tensorflow.org/?hl=pt-br" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/tensorflow/000/E4BF7A" alt="TensorFlow" height="50" /></a>  <a href="https://pytorch.org" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/pytorch/000/E4BF7A" alt="PyTorch" height="50" /></a>  <a href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/scikitlearn/000/E4BF7A" alt="scikit-learn" height="50" /></a>  <a href="https://plotly.com" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/plotly/000/E4BF7A" alt="Plotly" height="50" /></a>  <a href="https://airflow.apache.org" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/apacheairflow/000/E4BF7A" alt="Airflow" height="50" /></a>  <a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/apachespark/000/E4BF7A" alt="PySpark" height="50" /></a> <a href="https://streamlit.io" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/streamlit/000/E4BF7A" alt="Streamlit" height="50" /></a> 
 </div>
 
 </td><td valign="top" width="33%">
