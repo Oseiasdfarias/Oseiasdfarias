@@ -23,7 +23,7 @@
 
 ## What I Do
 
-**At [Verzel](https://verzel.com.br) (AI Developer — Lunella/RosanaDesk SaaS):**
+**At Verzel (AI Developer — Lunella/RosanaDesk SaaS):**
 - Architected event-driven serverless system on AWS: API Gateway → SNS → SQS FIFO → Lambda → EventBridge — 9+ microservices in production
 - Built Python ML/NLP pipelines on AWS Lambda for topic extraction and classification from conversational data, with multi-tenant consolidation and automated PDF/Slack reports
 - Integrated LLM agents (TaskingAI) and voice assistant pipeline (VAPI — STT→LLM→TTS)
