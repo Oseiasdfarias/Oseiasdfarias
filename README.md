@@ -69,7 +69,6 @@ Docker · CI/CD · Pytest · versioned migrations · reproducible deploys · mod
 
 ### Cloud AWS
 <div align="center">
-<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/amazonaws/000/E4BF7A" alt="AWS" />
 <img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/postgresql/000/E4BF7A" alt="PostgreSQL" />
 <img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/redis/000/E4BF7A" alt="Redis" />
 <img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/serverless/000/E4BF7A" alt="Serverless" />
