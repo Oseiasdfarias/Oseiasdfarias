@@ -1,149 +1,129 @@
-<img src="https://komarev.com/ghpvc/?username=Oseiasdfarias&style=flat-square" alt="Profile views" align='right'/> <a href="https://github.com/dnsrsdata"> </a> 
-<h1 align="center">Hi 👋, I'm Oséias</h1>
+<img src="https://komarev.com/ghpvc/?username=Oseiasdfarias&style=flat-square" alt="Profile views" align='right'/>
+
+<h1 align="center">Hi, I'm Oséias Farias 👋</h1>
 
 <p align="center">
-<h3 align="center">Electrical Engineer · MSc student in Control Systems · Brazil</h3>
+  <strong>ML Engineer · MLOps & Cloud AI (AWS) · Brazil · Remote</strong>
 </p>
 
 <p align="center">
-I build open-source tools at the intersection of control theory, simulation and AI.<br/>
-Currently developing <a href="https://github.com/synapsys-lab/synapsys"><strong>Synapsys</strong></a> — a Python framework for modelling, simulating and deploying control systems.
+  I build and operate ML/NLP pipelines and event-driven serverless architectures in production on AWS.<br/>
+  Currently open to <strong>ML Engineer / MLOps</strong> roles in structured teams.
 </p>
 
-
-<p><h3><a href="https://www.youtube.com/@oseiasdfarias" target="_blank"> Meu Canal no YouTube</a></h3></p>
-
-<h3><a href="https://oseiasfarias.medium.com" target="_blank"> Posts Recentes Medium</a></h3>
+<p align="center">
+  <a href="https://oseiasdfarias.github.io" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/portfolio.svg" alt="Portfolio" height="28" width="36" /></a>
+  <a href="https://linkedin.com/in/oseiasfarias" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="28" width="36" /></a>
+  <a href="https://medium.com/@oseiasfarias" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="28" width="36" /></a>
+  <a href="https://kaggle.com/osiasdfarias" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="28" width="36" /></a>
+  <a href="https://www.youtube.com/@oseiasdfarias" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="28" width="36" /></a>
+</p>
 
 ---
 
-## Featured Project
+## What I Do
 
-<a href="https://github.com/synapsys-lab/synapsys">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=synapsys-lab&repo=synapsys&theme=onedark&title_color=E4BF7A&icon_color=E4BF7A" />
-</a>
+**At [Verzel](https://verzel.com.br) (AI Developer — Lunella/RosanaDesk SaaS):**
+- Architected event-driven serverless system on AWS: API Gateway → SNS → SQS FIFO → Lambda → EventBridge — 9+ microservices in production
+- Built Python ML/NLP pipelines on AWS Lambda for topic extraction and classification from conversational data, with multi-tenant consolidation and automated PDF/Slack reports
+- Integrated LLM agents (TaskingAI) and voice assistant pipeline (VAPI — STT→LLM→TTS)
+- Reactive Java backend: Quarkus · PostgreSQL · Redis · Keycloak · Flyway
 
-**[Synapsys](https://github.com/synapsys-lab/synapsys)** — MATLAB-compatible Python API (`tf`, `ss`, `bode`, `lqr`…), nonlinear simulators with real-time 3D visualisation, multi-agent closed-loop simulation and distributed transport (shared memory / ZeroMQ). 501 tests · 100% coverage · mypy strict.
+**Research (two master's degrees in progress):**
+- UFABC — adaptive control (LQR, H∞), fault detection (EKF/UKF/CUSUM), LLM agent supervisor (CrewAI) in Hardware-in-the-Loop
+- UFPA — model-free predictive control and Deep RL/DQN for power electronics
 
 ---
 
+## Skills
 
-<!-- 
-### GitHub Stats
-<p align="center"> <a href="https://stats.dooboo.io"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=oseiasdfarias" width="600" /></a> </p> -->
+<table><tr><td valign="top" width="25%">
 
-
-
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://oseiasdfarias.github.io" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/portfolio.svg" alt="oseiasfarias" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/oseiasfarias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oseiasfarias" height="30" width="40" /></a>
-<a href="https://kaggle.com/osiasdfarias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="osiasdfarias" height="30" width="40" /></a>
-<a href="https://medium.com/@oseiasfarias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@oseiasfarias" height="30" width="40" /></a>
-</p>
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-### Control Systems & Simulation
+### ML / NLP
 <div align="center">
-<a href="https://github.com/synapsys-lab/synapsys" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/python/000/E4BF7A" alt="Synapsys" height="50" /></a>
-<a href="https://scipy.org" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/scipy/000/E4BF7A" alt="SciPy" height="50" /></a>
-<a href="https://numpy.org" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/numpy/000/E4BF7A" alt="NumPy" height="50" /></a>
-<a href="https://matplotlib.org" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/plotly/000/E4BF7A" alt="Matplotlib" height="50" /></a>
-<a href="https://pytorch.org" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/pytorch/000/E4BF7A" alt="PyTorch" height="50" /></a>
-<a href="https://jupyter.org" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/jupyter/000/E4BF7A" alt="Jupyter" height="50" /></a>
+<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/python/000/E4BF7A" alt="Python" />
+<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/scikitlearn/000/E4BF7A" alt="Scikit-Learn" />
+<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/pytorch/000/E4BF7A" alt="PyTorch" />
+<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/tensorflow/000/E4BF7A" alt="TensorFlow" />
+<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/fastapi/000/E4BF7A" alt="FastAPI" />
+<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/pandas/000/E4BF7A" alt="Pandas" />
 </div>
 
-LTI systems · state-space · nonlinear simulation · LQR · PID · RK4/RK45 · multi-agent · distributed simulation
+NLP pipelines · topic extraction · model serving · drift monitoring · MLflow
 
-### Data Science  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/python/000/E4BF7A" alt="Python" height="50" /></a> <a href="https://pandas.pydata.org" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/pandas/000/E4BF7A" alt="Pandas" height="50" /></a> <a href="https://numpy.org" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/numpy/000/E4BF7A" alt="NumPy" height="50" /></a>  <a href="https://scipy.org" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/scipy/000/E4BF7A" alt="SciPy" height="50" /></a>  <a href="https://jupyter.org" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/jupyter/000/E4BF7A" alt="Jupyter" height="50" /></a>  <a href="https://www.tensorflow.org/?hl=pt-br" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/tensorflow/000/E4BF7A" alt="TensorFlow" height="50" /></a>  <a href="https://pytorch.org" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/pytorch/000/E4BF7A" alt="PyTorch" height="50" /></a>  <a href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/scikitlearn/000/E4BF7A" alt="scikit-learn" height="50" /></a>  <a href="https://plotly.com" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/plotly/000/E4BF7A" alt="Plotly" height="50" /></a>  <a href="https://airflow.apache.org" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/apacheairflow/000/E4BF7A" alt="Airflow" height="50" /></a>  <a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/apachespark/000/E4BF7A" alt="PySpark" height="50" /></a> <a href="https://streamlit.io" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/streamlit/000/E4BF7A" alt="Streamlit" height="50" /></a> 
+</td><td valign="top" width="25%">
+
+### MLOps
+<div align="center">
+<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/docker/000/E4BF7A" alt="Docker" />
+<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/githubactions/000/E4BF7A" alt="GitHub Actions" />
+<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/pytest/000/E4BF7A" alt="Pytest" />
+<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/git/000/E4BF7A" alt="Git" />
+<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/gnubash/000/E4BF7A" alt="Bash" />
+<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/linux/000/E4BF7A" alt="Linux" />
 </div>
 
-</td><td valign="top" width="33%">
+Docker · CI/CD · Pytest · versioned migrations · reproducible deploys · model monitoring
 
-### Backend  
-<div align="center">   
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" height="40" width="40" src="https://img.icons8.com/?size=100&id=2572&format=png&color=E4BF7A" alt="Java" height="50" /></a>
-<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/oracle/000/E4BF7A" alt="Oracle" height="50" /></a>  
-<a href="https://spring.io/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/spring/000/E4BF7A" alt="Spring" height="50" /></a>    
-<a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/springboot/000/E4BF7A" alt="Spring Boot" height="50" /></a> <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/python/000/E4BF7A" alt="Python" height="50" /></a>  <a href="https://aws.amazon.com" target="_blank"><img style="margin: 10px" height="40" width="40" src="https://cdn.simpleicons.org/amazonwebservices/000/E4BF7A" alt="Java" height="50" /></a>  <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" height="40" width="40" src="https://cdn.simpleicons.org/awslambda/000/E4BF7A" alt="aws lambda" height="50" /></a>  <a href="https://aws.amazon.com/pt/ec2/" target="_blank"><img style="margin: 10px" height="40" width="40" src="https://cdn.simpleicons.org/amazonec2/000/E4BF7A" alt="amazon ec2" height="50" /></a> <a href="https://aws.amazon.com/pt/pm/serv-s3" target="_blank"><img style="margin: 10px" height="40" width="40" src="https://cdn.simpleicons.org/amazons3/000/E4BF7A" alt="amazon s3" height="50" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/mysql/000/E4BF7A" alt="MySQL" height="50" /></a> 
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/postgresql/000/E4BF7A" alt="PostgreSQL" height="50" /></a> 
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/flask/000/E4BF7A" alt="Flask" height="50" /></a>
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/linux/000/E4BF7A" alt="Linux" height="50" /></a> 
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/raspberrypi/000/E4BF7A" alt="Raspberry Pi" height="50" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/arduino/000/E4BF7A" alt="Arduino" height="50" /></a> 
+</td><td valign="top" width="25%">
+
+### Cloud AWS
+<div align="center">
+<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/amazonwebservices/000/E4BF7A" alt="AWS" />
+<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/awslambda/000/E4BF7A" alt="Lambda" />
+<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/amazons3/000/E4BF7A" alt="S3" />
+<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/postgresql/000/E4BF7A" alt="PostgreSQL" />
+<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/redis/000/E4BF7A" alt="Redis" />
+<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/amazondynamodb/000/E4BF7A" alt="DynamoDB" />
 </div>
 
-</td><td valign="top" width="33%">
+Lambda · SQS · SNS · EventBridge · S3 · PostgreSQL · Redis · pgvector
 
-### Programming Tools 
-<div align="center">  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/docker/000/E4BF7A" alt="Docker" height="50" /></a>
-<a href="https://www.heroku.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/heroku/000/E4BF7A" alt="Heroku" height="50" /></a> 
-<a href="https://render.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/render/000/E4BF7A" alt="Render" height="50" /></a> 
-<a href="https://streamlit.io/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/streamlit/000/E4BF7A" alt="Streamlit" height="50" /></a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/gnubash/000/E4BF7A" alt="Bash" height="50" /></a> <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/git/000/E4BF7A" alt="Git" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/github/000/E4BF7A" alt="GitHub" height="50" /></a>   
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/gitlab/000/E4BF7A" alt="GitLab" height="50" /></a>
-<a href="https://trello.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/trello/000/E4BF7A" alt="Trello" height="50" /></a>
-<a href="https://slack.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/slack/000/E4BF7A" alt="Slack" height="50" /></a>
-<a href="https://openai.com/" target="_blank"><img style="margin: 10px" height="30" width="30" src="https://cdn.simpleicons.org/openai/000/E4BF7A" alt="Openai" height="50" /></a>
+</td><td valign="top" width="25%">
+
+### LLMs & AI
+<div align="center">
+<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/openai/000/E4BF7A" alt="OpenAI" />
+<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/langchain/000/E4BF7A" alt="LangChain" />
+<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/jupyter/000/E4BF7A" alt="Jupyter" />
+<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/scipy/000/E4BF7A" alt="SciPy" />
+<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/numpy/000/E4BF7A" alt="NumPy" />
+<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/streamlit/000/E4BF7A" alt="Streamlit" />
 </div>
 
-</td></tr></table>   
+RAG · LangGraph · CrewAI · prompt engineering · Langfuse · STT→LLM→TTS
 
-<br/>
+</td></tr></table>
 
+---
 
+## Projects
 
+| Project | Stack | Description |
+|---|---|---|
+| [Desafio Elite Dev IA](https://github.com/Oseiasdfarias/oseias_desafio_elite_dev_ia) | Python | AI development challenge |
+| [Full FastAPI REST](https://github.com/Oseiasdfarias/full_fast_api) | Python · FastAPI · PostgreSQL · Docker | Full CRUD with Pytest, SQLAlchemy, CI/CD |
+| [AWS Lambda + Serverless](https://github.com/Oseiasdfarias/AWS_lambda_com_python_e_serverless_framework) | Python · AWS Lambda | Deploying serverless functions on AWS |
+| [Forum Hub API](https://github.com/Oseiasdfarias/forum_hub_challenge) | Java · Spring Boot · MySQL | REST API with JWT auth and Flyway migrations |
+| [Hotel Reservation API](https://github.com/Oseiasdfarias/reserva-hoteis-api) | Python · Flask · PostgreSQL | Hotel booking service with JWT auth |
+| [Data Warehouse from Scratch](https://github.com/Oseiasdfarias/projeto_datawarehouse_do_zero) | Python | Commodities data warehouse |
+| [ETL E-commerce](https://github.com/Oseiasdfarias/ETL-Ecommerce-produtos) | Python | ETL pipeline for Mercado Livre data |
 
-## &#x1f4c8; GitHub Stats
+---
+
+## GitHub Stats
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oseiasdfarias&theme=onedark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oseiasdfarias&theme=onedark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oseiasdfarias&theme=onedark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=oseiasdfarias&theme=onedark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oseiasdfarias&theme=onedark&utcOffset=8)
 
-
-<!-- SNAKE INIT -->
-
+<p>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oseiasdfarias&theme=onedark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oseiasdfarias&theme=onedark" />
+</p>
+<p>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=oseiasdfarias&theme=onedark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oseiasdfarias&theme=onedark&utcOffset=-3" />
+</p>
 
 <div>
-    <img src="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/output/github-contribution-grid-snake-dark.svg" />
 </div>
-
- 
-<!-- SNAKE END -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-
-<!-- links to your social media accounts -->
-
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
-
-
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
