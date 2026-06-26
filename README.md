@@ -97,20 +97,6 @@ RAG · LangGraph · CrewAI · prompt engineering · Langfuse · STT→LLM→TTS
 
 ---
 
-## Projects
-
-| Project | Stack | Description |
-|---|---|---|
-| [Desafio Elite Dev IA](https://github.com/Oseiasdfarias/oseias_desafio_elite_dev_ia) | Python | AI development challenge |
-| [Full FastAPI REST](https://github.com/Oseiasdfarias/full_fast_api) | Python · FastAPI · PostgreSQL · Docker | Full CRUD with Pytest, SQLAlchemy, CI/CD |
-| [AWS Lambda + Serverless](https://github.com/Oseiasdfarias/AWS_lambda_com_python_e_serverless_framework) | Python · AWS Lambda | Deploying serverless functions on AWS |
-| [Forum Hub API](https://github.com/Oseiasdfarias/forum_hub_challenge) | Java · Spring Boot · MySQL | REST API with JWT auth and Flyway migrations |
-| [Hotel Reservation API](https://github.com/Oseiasdfarias/reserva-hoteis-api) | Python · Flask · PostgreSQL | Hotel booking service with JWT auth |
-| [Data Warehouse from Scratch](https://github.com/Oseiasdfarias/projeto_datawarehouse_do_zero) | Python | Commodities data warehouse |
-| [ETL E-commerce](https://github.com/Oseiasdfarias/ETL-Ecommerce-produtos) | Python | ETL pipeline for Mercado Livre data |
-
----
-
 ## GitHub Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oseiasdfarias&theme=onedark)
