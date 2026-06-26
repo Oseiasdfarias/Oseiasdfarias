@@ -69,7 +69,7 @@ Docker · CI/CD · Pytest · versioned migrations · reproducible deploys · mod
 
 ### Cloud AWS
 <div align="center">
-<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/amazonwebservices/000/E4BF7A" alt="AWS" />
+<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/amazonaws/000/E4BF7A" alt="AWS" />
 <img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/postgresql/000/E4BF7A" alt="PostgreSQL" />
 <img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/redis/000/E4BF7A" alt="Redis" />
 <img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/serverless/000/E4BF7A" alt="Serverless" />
@@ -83,7 +83,7 @@ Lambda · SQS · SNS · EventBridge · S3 · PostgreSQL · Redis · pgvector
 
 ### LLMs & AI
 <div align="center">
-<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/openai/000/E4BF7A" alt="OpenAI" />
+<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/huggingface/000/E4BF7A" alt="HuggingFace" />
 <img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/langchain/000/E4BF7A" alt="LangChain" />
 <img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/jupyter/000/E4BF7A" alt="Jupyter" />
 <img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/scipy/000/E4BF7A" alt="SciPy" />
