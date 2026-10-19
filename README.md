@@ -1,169 +1,64 @@
-<img src="https://komarev.com/ghpvc/?username=Oseiasdfarias&style=flat-square" alt="Profile views" align='right'/>
-
-<h1 align="center">Hi, I'm Oséias Farias 👋</h1>
-
-<p align="center">
-  <strong>Machine Learning Engineer · MLOps & AI Systems (AWS) · Brazil · Remote</strong>
-</p>
-
-<p align="center">
-  Machine Learning / MLOps and Electrical Engineer. I design and deploy ML pipelines, autonomous agents,<br/>
-  and event-driven serverless architectures on AWS — focused on reliability, 100% test coverage, and physical-world integration.<br/>
-  Open to <strong>ML Engineering, MLOps and AI Engineering</strong> opportunities.
-</p>
-
-<p align="center">
-  <a href="https://oseiasdfarias.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRTRCRjdBIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48cGF0aCBkPSJNMiAxMmgyMCIvPjxwYXRoIGQ9Ik0xMiAyYTE1LjMgMTUuMyAwIDAgMSA0IDEwIDE1LjMgMTUuMyAwIDAgMS00IDEwIDE1LjMgMTUuMyAwIDAgMS00LTEwIDE1LjMgMTUuMyAwIDAgMSA0LTEweiIvPjwvc3ZnPg%3D%3D&logoColor=E4BF7A" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/oseiasfarias/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0U0QkY3QSIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B&logoColor=E4BF7A" alt="LinkedIn" /></a>
-  <a href="https://oseiasfarias.medium.com" target="_blank"><img src="https://img.shields.io/badge/Medium-1A1A1A?style=for-the-badge&logo=medium&logoColor=E4BF7A" alt="Medium" /></a>
-  <a href="https://kaggle.com/osiasdfarias" target="_blank"><img src="https://img.shields.io/badge/Kaggle-1A1A1A?style=for-the-badge&logo=kaggle&logoColor=E4BF7A" alt="Kaggle" /></a>
-  <a href="https://www.youtube.com/@otensor" target="_blank"><img src="https://img.shields.io/badge/YouTube-1A1A1A?style=for-the-badge&logo=youtube&logoColor=E4BF7A" alt="YouTube" /></a>
-</p>
-
----
-
-## About
-
-Electrical engineer turned ML engineer — working where production AI, cloud architecture and physical-world control systems meet.
-
-- 🛰️ **Otensor** (Founder) — IoT + AI SaaS: ESP32/Raspberry Pi firmware, MQTT telemetry and serverless orchestration on AWS.
-- ☁️ **Verzel** (Software & AI Developer, 2025–2026) — event-driven AWS serverless (9+ microservices), NLP pipelines and LLM/voice agents in production.
-- 🎓 **Dual M.Sc.** — UFABC (antifragile control with LLM agents, AFOSR partnership) and UFPA (Deep RL for power electronics).
-
----
-
-## Open Source
-
-<table>
-<tr>
-<td valign="middle" width="50%" align="center">
-
-<a href="https://github.com/Oseiasdfarias/youfy"><img src="https://raw.githubusercontent.com/Oseiasdfarias/youfy/main/docs/assets/banner.svg" alt="Youfy banner" width="100%" /></a>
-
-</td>
-<td valign="middle" width="50%" align="center">
-
-### [Youfy](https://github.com/Oseiasdfarias/youfy) &nbsp;·&nbsp; 🚧 in progress
-
-<a href="https://oseiasdfarias.github.io/youfy/"><img src="https://img.shields.io/badge/docs-online-E4BF7A?style=flat-square" alt="Docs" /></a>
-<a href="https://github.com/Oseiasdfarias/youfy"><img src="https://img.shields.io/badge/license-MIT-E4BF7A?style=flat-square" alt="MIT" /></a>
-
-<p align="left">Closed-loop music intelligence & MLOps platform: an applied-AI lab shaped as a music ecosystem, where the product exists to put real load on models in production and their lifecycle is the core goal.</p>
-
-<p align="left"><strong>FMA dataset · artist-disjoint splits · DVC · fingerprinted feature cache</strong></p>
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%" align="center">
-
-### [Synapsys](https://github.com/synapsys-lab/synapsys)
-
-<a href="https://pypi.org/project/synapsys/"><img src="https://img.shields.io/pypi/v/synapsys?style=flat-square&color=E4BF7A&label=PyPI" alt="PyPI" /></a>
-<a href="https://github.com/synapsys-lab/synapsys"><img src="https://img.shields.io/badge/license-MIT-E4BF7A?style=flat-square" alt="MIT" /></a>
-
-<img src="https://oseiasdfarias.github.io/gifs/06_quadcopter_3d.gif" alt="Synapsys 3D quadcopter with Neural-LQR" height="260" />
-
-<p align="left">Python framework bridging classical control and ML: PyTorch/Keras/JAX models as controllers, multi-agent simulation over ZeroMQ, PID and LQR, a MATLAB-compatible API and MIL/SIL/HIL workflows.</p>
-
-<p align="left"><strong>501 tests · 100% coverage · Python 3.10–3.12</strong></p>
-
-</td>
-<td valign="top" width="50%" align="center">
-
-### [animaflow](https://github.com/Oseiasdfarias/animaflow)
-
-<a href="https://oseiasdfarias.github.io/animaflow/"><img src="https://img.shields.io/badge/docs-online-E4BF7A?style=flat-square" alt="Docs" /></a>
-<a href="https://github.com/Oseiasdfarias/animaflow"><img src="https://img.shields.io/badge/license-MIT-E4BF7A?style=flat-square" alt="MIT" /></a>
-
-<img src="https://oseiasdfarias.github.io/assets/animaflow_stream.gif" alt="animaflow streaming diagram" height="260" />
-
-<p align="left">Declarative Python framework for animated architecture diagrams: describe event-driven pipelines, multi-agent swarms or RAG flows once in code and render them with Manim, Web Canvas/SVG or Remotion.</p>
-
-<p align="left"><strong>Diagrams as code · versionable in Git · MkDocs docs</strong></p>
-
-</td>
-</tr>
-</table>
-
----
-
-## Skills
-
-<table><tr><td valign="top" width="25%">
-
-### MLOps & Prod
 <div align="center">
-<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/python/000/E4BF7A" alt="Python" />
-<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/fastapi/000/E4BF7A" alt="FastAPI" />
-<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/mlflow/000/E4BF7A" alt="MLflow" />
-<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/pytest/000/E4BF7A" alt="Pytest" />
-<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/docker/000/E4BF7A" alt="Docker" />
-<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/githubactions/000/E4BF7A" alt="GitHub Actions" />
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/develop/assets/banner-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/develop/assets/banner-light.svg"><img alt="Oséias Farias, Applied AI and MLOps Engineer. Reliable AI for physical systems." src="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/develop/assets/banner-dark.svg" width="100%"></picture>
+
 </div>
 
-Model serving · ML/NLP pipelines on Lambda · drift monitoring · data contracts · 100% test coverage · CI/CD
+<br>
 
-</td><td valign="top" width="25%">
+I build AI systems that keep physical systems running: they detect when something fails and help fix it, in production. I come from electrical engineering and industrial maintenance, so I care about the system around the model, not only the model.
 
-### AI & Agents
-<div align="center">
-<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/pytorch/000/E4BF7A" alt="PyTorch" />
-<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/tensorflow/000/E4BF7A" alt="TensorFlow" />
-<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/scikitlearn/000/E4BF7A" alt="Scikit-Learn" />
-<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/huggingface/000/E4BF7A" alt="HuggingFace" />
-<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/langchain/000/E4BF7A" alt="LangChain" />
-<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/crewai/000/E4BF7A" alt="CrewAI" />
-</div>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/develop/assets/section-now-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/develop/assets/section-now-light.svg"><img alt="Now" src="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/develop/assets/section-now-dark.svg" width="100%"></picture>
 
-CrewAI · LangGraph · TaskingAI · RAG · LiteLLM · VAPI (STT→LLM→TTS) · Deep RL
+- **AI Engineer & Researcher at UFABC**, in a project funded by the U.S. Air Force Office of Scientific Research (AFOSR): agents that detect faults in a power converter and reconfigure its controller in real time, from simulation to hardware.
+- **M.Sc. in Electrical and Information Engineering** at UFABC (expected 2027).
+- Before: **Backend & AI Developer at Verzel**, building voice AI and multi-tenant integrations for an AI agent platform (Java/Quarkus, Vue.js, AWS serverless).
+- Building **[Otensor](https://docs.otensor.com.br)**, an IoT automation platform that connects ESP32 and Raspberry Pi devices to a real-time dashboard and an automation engine.
 
-</td><td valign="top" width="25%">
-
-### Cloud & Distributed
-<div align="center">
-<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/serverless/000/E4BF7A" alt="Serverless" />
-<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/quarkus/000/E4BF7A" alt="Quarkus" />
-<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/postgresql/000/E4BF7A" alt="PostgreSQL" />
-<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/redis/000/E4BF7A" alt="Redis" />
-<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/keycloak/000/E4BF7A" alt="Keycloak" />
-</div>
-
-API Gateway → SNS → SQS FIFO → Lambda → EventBridge · AWS SAM · reactive microservices · ZeroMQ IPC
-
-</td><td valign="top" width="25%">
-
-### Edge AI / IoT
-<div align="center">
-<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/espressif/000/E4BF7A" alt="ESP32" />
-<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/raspberrypi/000/E4BF7A" alt="Raspberry Pi" />
-<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/mqtt/000/E4BF7A" alt="MQTT" />
-<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/cplusplus/000/E4BF7A" alt="C++" />
-<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/linux/000/E4BF7A" alt="Linux" />
-<img style="margin: 8px" height="28" src="https://cdn.simpleicons.org/arduino/000/E4BF7A" alt="Arduino" />
-</div>
-
-C/C++ & Python firmware · real-time MQTT telemetry · Hardware-in-the-Loop · FPGA/FPAA · RTOS
-
-</td></tr></table>
-
----
-
-## GitHub Stats
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/develop/assets/section-projects-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/develop/assets/section-projects-light.svg"><img alt="Featured projects" src="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/develop/assets/section-projects-dark.svg" width="100%"></picture>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oseiasdfarias&theme=onedark" height="170" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oseiasdfarias&theme=onedark" height="170" alt="Most commit language" />
+<a href="https://github.com/synapsys-lab/synapsys"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/develop/assets/card-synapsys-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/develop/assets/card-synapsys-light.svg"><img alt="synapsys: control systems and machine learning framework" src="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/develop/assets/card-synapsys-dark.svg" width="49%"></picture></a>
+<a href="https://github.com/Oseiasdfarias/youfy"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/develop/assets/card-youfy-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/develop/assets/card-youfy-light.svg"><img alt="youfy: MLOps lab built around music" src="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/develop/assets/card-youfy-dark.svg" width="49%"></picture></a>
+<a href="https://github.com/Oseiasdfarias/glassllm"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/develop/assets/card-glassllm-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/develop/assets/card-glassllm-light.svg"><img alt="glassllm: see every step of an LLM" src="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/develop/assets/card-glassllm-dark.svg" width="49%"></picture></a>
+<a href="https://github.com/Oseiasdfarias/animaflow"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/develop/assets/card-animaflow-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/develop/assets/card-animaflow-light.svg"><img alt="animaflow: architecture diagrams as code" src="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/develop/assets/card-animaflow-dark.svg" width="49%"></picture></a>
+<a href="https://github.com/Oseiasdfarias/lab-virtual"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/develop/assets/card-lab-virtual-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/develop/assets/card-lab-virtual-light.svg"><img alt="lab-virtual: digital twin of an aeropendulum" src="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/develop/assets/card-lab-virtual-dark.svg" width="49%"></picture></a>
+<a href="https://github.com/Oseiasdfarias/oseias_desafio_elite_dev_ia"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/develop/assets/card-sdr-agent-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/develop/assets/card-sdr-agent-light.svg"><img alt="sdr-agent: LLM agent with function calling" src="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/develop/assets/card-sdr-agent-dark.svg" width="49%"></picture></a>
 </p>
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/develop/assets/section-research-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/develop/assets/section-research-light.svg"><img alt="Research and publications" src="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/develop/assets/section-research-dark.svg" width="100%"></picture>
+
+- **Farias, O. D.**, Estrada Martínez, E., Lescano, J. C. O. S., Potts, A. S. *Supervisão Adaptativa de Conversor Buck por Sistema Multiagente com Ciclo Percepção-Raciocínio-Ação e Reconfiguração Autônoma de Controladores*. Brazilian Conference on Automation (CBA), 2026. **Accepted.**
+- **Farias, O. D.**, Teixeira, R. B. *FCS-MPC com ARX Adaptativo via RLS para Controle P-Q Robusto a Variações Paramétricas em Inversores Trifásicos Conectados à Rede*. Brazilian Conference on Automation (CBA), 2026. **Accepted.**
+- Cota, Y. O., **Farias, O. D.**, Teixeira, R. B., Bayma, R. S. *Explorando o potencial do Laboratório Virtual de Controle de Sistemas com VPython no ensino de Engenharia*. COBENGE, 2023.
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/develop/assets/section-teaching-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/develop/assets/section-teaching-light.svg"><img alt="Teaching and writing" src="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/develop/assets/section-teaching-dark.svg" width="100%"></picture>
+
+- **Udemy:** 2 Python courses for beginners, 2,100+ students.
+- **YouTube:** [@otensor](https://youtube.com/@otensor), 1.7k subscribers.
+- **Medium:** a 16-article series on MLOps, model serving, RAG and AI observability ([@oseiasfarias](https://medium.com/@oseiasfarias)).
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/develop/assets/section-stack-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/develop/assets/section-stack-light.svg"><img alt="Tech stack" src="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/develop/assets/section-stack-dark.svg" width="100%"></picture>
+
+**AI & ML**<br>
+<img alt="Python" src="https://img.shields.io/badge/Python-141416?style=flat-square&logo=python&logoColor=d4885a&labelColor=141416"> <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-141416?style=flat-square&logo=pytorch&logoColor=d4885a&labelColor=141416"> <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-141416?style=flat-square&logo=tensorflow&logoColor=d4885a&labelColor=141416"> <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-141416?style=flat-square&logo=scikitlearn&logoColor=d4885a&labelColor=141416"> <img alt="OpenAI API" src="https://img.shields.io/badge/OpenAI%20API-141416?style=flat-square&logo=openai&logoColor=d4885a&labelColor=141416"> <img alt="MLflow" src="https://img.shields.io/badge/MLflow-141416?style=flat-square&logo=mlflow&logoColor=d4885a&labelColor=141416"> <img alt="DVC" src="https://img.shields.io/badge/DVC-141416?style=flat-square&logo=dvc&logoColor=d4885a&labelColor=141416">
+
+**Cloud & back end**<br>
+<img alt="AWS" src="https://img.shields.io/badge/AWS-141416?style=flat-square&logo=amazonwebservices&logoColor=d4885a&labelColor=141416"> <img alt="AWS Lambda" src="https://img.shields.io/badge/AWS%20Lambda-141416?style=flat-square&logo=awslambda&logoColor=d4885a&labelColor=141416"> <img alt="Docker" src="https://img.shields.io/badge/Docker-141416?style=flat-square&logo=docker&logoColor=d4885a&labelColor=141416"> <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-141416?style=flat-square&logo=fastapi&logoColor=d4885a&labelColor=141416"> <img alt="Quarkus" src="https://img.shields.io/badge/Quarkus-141416?style=flat-square&logo=quarkus&logoColor=d4885a&labelColor=141416"> <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-141416?style=flat-square&logo=graphql&logoColor=d4885a&labelColor=141416"> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-141416?style=flat-square&logo=postgresql&logoColor=d4885a&labelColor=141416"> <img alt="Redis" src="https://img.shields.io/badge/Redis-141416?style=flat-square&logo=redis&logoColor=d4885a&labelColor=141416"> <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-141416?style=flat-square&logo=githubactions&logoColor=d4885a&labelColor=141416">
+
+**Physical systems**<br>
+<img alt="MATLAB / Simulink" src="https://img.shields.io/badge/MATLAB%20/%20Simulink-141416?style=flat-square&logo=mathworks&logoColor=d4885a&labelColor=141416"> <img alt="ZeroMQ" src="https://img.shields.io/badge/ZeroMQ-141416?style=flat-square&logo=zeromq&logoColor=d4885a&labelColor=141416"> <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-141416?style=flat-square&logo=raspberrypi&logoColor=d4885a&labelColor=141416"> <img alt="Espressif ESP32" src="https://img.shields.io/badge/Espressif%20ESP32-141416?style=flat-square&logo=espressif&logoColor=d4885a&labelColor=141416"> <img alt="MQTT" src="https://img.shields.io/badge/MQTT-141416?style=flat-square&logo=mqtt&logoColor=d4885a&labelColor=141416">
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/develop/assets/section-connect-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/develop/assets/section-connect-light.svg"><img alt="Connect" src="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/develop/assets/section-connect-dark.svg" width="100%"></picture>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=oseiasdfarias&theme=onedark&background=282C34&ring=E4BF7A&fire=E4BF7A&currStreakNum=E4BF7A&currStreakLabel=E4BF7A&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="170" alt="Contribution streak" />
+<a href="https://oseiasdfarias.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-141416?style=flat-square&logo=googlechrome&logoColor=d4885a&labelColor=141416"></a> <a href="https://www.linkedin.com/in/oseiasfarias/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-141416?style=flat-square&logo=linkedin&logoColor=d4885a&labelColor=141416"></a> <a href="https://medium.com/@oseiasfarias"><img alt="Medium" src="https://img.shields.io/badge/Medium-141416?style=flat-square&logo=medium&logoColor=d4885a&labelColor=141416"></a> <a href="https://youtube.com/@otensor"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-141416?style=flat-square&logo=youtube&logoColor=d4885a&labelColor=141416"></a> <a href="https://orcid.org/0009-0005-4960-0271"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-141416?style=flat-square&logo=orcid&logoColor=d4885a&labelColor=141416"></a> <a href="mailto:oseias.dfarias@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-141416?style=flat-square&logo=gmail&logoColor=d4885a&labelColor=141416"></a>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/output/snake-light.svg">
+    <img alt="Contribution graph animation" src="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/output/snake-dark.svg">
   </picture>
 </p>
