@@ -12,6 +12,7 @@ on:
   push:
     branches:
     - master
+    - develop
     
   
 
@@ -26,9 +27,10 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # paleta do portfólio (oseiasdfarias.github.io)
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/snake-dark.svg?color_snake=#d4885a&color_dots=#161618,#3b2a20,#6b4630,#a5683f,#d4885a&color_dot_border=#0a0a0b
+            dist/snake-light.svg?color_snake=#9a4a24&color_dots=#ebe9e6,#e3c4ae,#c9906b,#ad6a43,#9a4a24&color_dot_border=#f5f5f4
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
