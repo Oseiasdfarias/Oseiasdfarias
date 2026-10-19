@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="420" height="190" viewBox="0 0 420 190" role="img" aria-label="glassllm: See every step of an LLM">
+<svg xmlns="http://www.w3.org/2000/svg" width="448" height="218" viewBox="0 0 448 218" role="img" aria-label="glassllm: See every step of an LLM">
+<g transform="translate(14,14)">
 <rect x=".5" y=".5" width="419" height="189" rx="12" fill="#ffffff" stroke="#dcdad7"/>
 <rect x="24" y="24" width="4" height="22" rx="2" fill="#9a4a24"/>
 <text x="38" y="41" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="17" font-weight="700" fill="#0c0a09">glassllm</text>
@@ -6,4 +7,5 @@
 <text x="24" y="66" font-family="'Plus Jakarta Sans','Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#9a4a24">See every step of an LLM</text>
 <text x="24" y="92" font-family="'Plus Jakarta Sans','Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#3a3633">A small Transformer written from scratch in</text><text x="24" y="111" font-family="'Plus Jakarta Sans','Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#3a3633">NumPy: the equation, the code and the real</text><text x="24" y="130" font-family="'Plus Jakarta Sans','Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#3a3633">numbers behind each step.</text>
 <rect x="24" y="148" width="52" height="22" rx="6" fill="#f5f5f4" stroke="#dcdad7"/><text x="50" y="163" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="11" fill="#3a3633">NumPy</text><rect x="84.0" y="148" width="105" height="22" rx="6" fill="#f5f5f4" stroke="#dcdad7"/><text x="137" y="163" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="11" fill="#3a3633">from scratch</text><rect x="197.2" y="148" width="82" height="22" rx="6" fill="#f5f5f4" stroke="#dcdad7"/><text x="238" y="163" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="11" fill="#3a3633">pre-alpha</text>
+</g>
 </svg>
