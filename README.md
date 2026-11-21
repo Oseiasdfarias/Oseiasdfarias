@@ -19,6 +19,56 @@ I build AI systems that keep physical systems running: they detect when somethin
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/develop/assets/section-experience-dark.svg?v=3"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/develop/assets/section-experience-light.svg?v=3"><img alt="Experience" src="https://raw.githubusercontent.com/Oseiasdfarias/Oseiasdfarias/develop/assets/section-experience-dark.svg?v=3" width="100%"></picture>
 
 - **AI Engineer & Researcher · UFABC** (Apr 2025 – present), in a project funded by the U.S. Air Force Office of Scientific Research (AFOSR): a supervisor where **LLM agents** (CrewAI) close the loop with a power converter behind a deterministic safety gate. I built the **RAG-style case memory** (PostgreSQL + pgvector), which retrieves similar faults and reuses validated recipes (−76% LLM calls), and the **Simulink plant** in software/hardware-in-the-loop with its fault detection (**unscented Kalman filter**, CUSUM). A journal paper on the architecture is in preparation.
+
+<details>
+<summary><b>UFABC supervisor architecture, end to end</b> (the parts I built have an orange border)</summary>
+
+```mermaid
+flowchart TB
+  subgraph PLANT["1 · Plant: MATLAB / Simulink, SIL and HIL"]
+    direction LR
+    SIM["Buck converter model<br/>and controller"] <-->|ZeroMQ| FDI["Fault detection and isolation<br/>unscented Kalman filter, CUSUM<br/>Python port, numerical parity"]
+    FDI <-->|ZeroMQ| GW["Plant gateway"]
+  end
+
+  subgraph BUS["2 · Messaging"]
+    direction LR
+    TC["Supervisor gateway<br/>SQLite and Redis"] --> EVT["Event detector<br/>fault event, pre and post windows"]
+  end
+
+  subgraph FLOW["3 · Supervisor: CrewAI Flow"]
+    direction TB
+    MEM(["Case memory check<br/>reuse · adapt · explore · full"])
+    subgraph CREWS["LLM crews"]
+      direction LR
+      OBS["observation"] --> ANA["analysis"] --> DIA["diagnosis"] --> RD["recipe_design<br/>structured output"]
+    end
+    CR["case_review crew<br/>gray zone"]
+    GATE["Deterministic safety gate<br/>gain design, robustness checks"]
+    JUDGE["recipe_evaluation crew<br/>and deterministic judge"]
+    MEM -->|miss| OBS
+    MEM -.->|unsure| CR
+    MEM -->|close case| GATE
+    CR --> GATE
+    RD --> GATE
+  end
+
+  DB[("4 · RAG case memory<br/>PostgreSQL and pgvector")]
+
+  GW -->|MQTT: states and faults| TC
+  EVT --> MEM
+  GATE -->|MQTT: recipe, bumpless swap| GW
+  GW -->|post-fault window| JUDGE
+  JUDGE -->|retain verified case| DB
+  DB -->|similar cases| MEM
+
+  classDef mine stroke:#d4885a,stroke-width:3px
+  class SIM,FDI,GW,MEM,CR,DB mine
+```
+
+With the memory on, a paired campaign used **76% fewer LLM calls** and delivered the recipe about 0.4 s sooner in plant time.
+</details>
+
 - **Founder & Lead Engineer · [Otensor](https://docs.otensor.com.br)** (Jun 2026 – present): an IoT automation platform that connects ESP32 and Raspberry Pi devices to a real-time dashboard and an event-driven automation engine on AWS.
 - **Backend & AI Developer · Verzel** (Dec 2025 – Jun 2026): voice AI and multi-tenant integrations for Lunella, an AI agent platform (Java/Quarkus, Vue.js, GraphQL, AWS serverless).
 - **Education:** M.Sc. in Electrical and Information Engineering at UFABC (expected 2027); M.Sc. in Applied Computing at UFPA (2025–2027); B.Sc. in Electrical Engineering at UFPA (2024).
